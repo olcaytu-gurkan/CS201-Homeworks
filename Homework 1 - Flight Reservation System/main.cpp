@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include "ReservationSystem.h"
-// Olcaytu Gürkan 21903031
+// Olcaytu GÃ¼rkan 21903031
 
 int main() {
 
@@ -56,7 +56,6 @@ int main() {
     R.cancelFlight(104);
     R.showReservation(code1);
     R.showAllFlights();
-cout <<"aqawadq";
 
     return 0;
 }
