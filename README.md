@@ -1,5 +1,5 @@
 # CS201 Fall 2020 Homeworks
-Homeworks for CS201 - Fundamental Structures of Computer Science I course, all done by me.
+Homeworks for CS201 - Fundamental Structures of Computer Science I course, all done by me. Some parts in the homeworks can look unefficient due to the restrictions in the insturctions of the homework.
 
 # Homework 1
 Flight reservation system for an airline company.
